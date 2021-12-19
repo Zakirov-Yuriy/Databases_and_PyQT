@@ -1,0 +1,12 @@
+2021-12-19 10:44:35,964 - INFO - client_config_log: <module> - Информационное сообщение 
+2021-12-19 10:44:35,965 - WARNING - client_config_log: <module> - Внимание! 
+2021-12-19 10:44:35,965 - DEBUG - client_config_log: <module> - Отладка 
+2021-12-19 10:44:35,965 - ERROR - client_config_log: <module> - Ошибка! 
+2021-12-19 10:44:38,624 - INFO - client_config_log: <module> - Информационное сообщение 
+2021-12-19 10:44:38,624 - WARNING - client_config_log: <module> - Внимание! 
+2021-12-19 10:44:38,624 - DEBUG - client_config_log: <module> - Отладка 
+2021-12-19 10:44:38,625 - ERROR - client_config_log: <module> - Ошибка! 
+2021-12-19 10:44:41,617 - INFO - client_config_log: <module> - Информационное сообщение 
+2021-12-19 10:44:41,618 - WARNING - client_config_log: <module> - Внимание! 
+2021-12-19 10:44:41,618 - DEBUG - client_config_log: <module> - Отладка 
+2021-12-19 10:44:41,618 - ERROR - client_config_log: <module> - Ошибка! 

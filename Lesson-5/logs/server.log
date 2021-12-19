@@ -1,0 +1,9 @@
+2021-12-19 10:44:47,549 - INFO - server_config_log: <module> - Информационное сообщение 
+2021-12-19 10:44:47,549 - WARNING - server_config_log: <module> - Внимание! 
+2021-12-19 10:44:47,549 - ERROR - server_config_log: <module> - Ошибка! 
+2021-12-19 10:44:48,013 - INFO - server_config_log: <module> - Информационное сообщение 
+2021-12-19 10:44:48,014 - WARNING - server_config_log: <module> - Внимание! 
+2021-12-19 10:44:48,014 - ERROR - server_config_log: <module> - Ошибка! 
+2021-12-19 10:44:49,783 - INFO - server_config_log: <module> - Информационное сообщение 
+2021-12-19 10:44:49,784 - WARNING - server_config_log: <module> - Внимание! 
+2021-12-19 10:44:49,784 - ERROR - server_config_log: <module> - Ошибка! 
