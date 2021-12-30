@@ -1,0 +1,10 @@
+2021-11-28 11:19:33,904 - INFO - server_config_log: <module> - Информационное сообщение 
+2021-11-28 11:19:33,904 - WARNING - server_config_log: <module> - Внимание! 
+2021-11-28 11:19:33,904 - ERROR - server_config_log: <module> - Ошибка! 
+2021-11-28 11:23:31,003 - INFO - server: start_server - Запуск сервера! Готов к приему клиентов! 
+ 
+2021-11-28 11:23:55,017 - INFO - server: start_server - Получен запрос на соединение от 127.0.0.1:64911 
+2021-11-28 11:23:55,017 - INFO - server: start_server - Принято сообщение от клиента: {'action': 'presence', 'time': '2021-11-28-11.23.55', 'user': {'account_name': 'Simper', 'account_password': 123}} 
+2021-11-28 11:23:55,017 - INFO - decorators: deco_log_call - Sun Nov 28 11:23:55 2021 Вызван декоратор Log для check_correct_presence_and_response с параметрами (<__main__.Server object at 0x00000195AAE8FD60>, {'action': 'presence', 'time': '2021-11-28-11.23.55', 'user': {'account_name': 'Simper', 'account_password': 123}}) из функции my_server.start_server() 
+2021-11-28 11:23:55,017 - INFO - server: start_server - Приветствуем пользователя Simper! 
+2021-11-28 11:23:55,017 - INFO - server: start_server - Отправка ответа клиенту: {'response': 200} 
